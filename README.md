@@ -41,4 +41,4 @@ Aplikacja umożliwia tworzenie użytkowników oraz zarządzanie prostymi zadania
 1. Zadania i użytkownicy stworzeni przy użyciu żądań, powinni być pamiętane w ramach jednokrotnego uruchomienia aplikacji
 1. Implementacja powinna zawierać testy jednostkowe sprawdzające wszystkie obsługiwane żądania
 1. Testy jednostkowe powinny sprawdzać wszystkie scenariusze użycia wyspecyfikowane w dokumentacji (zwracanie wszystkich możliwych odpowiedzi)
-1. Aplikacja powinna logować najważniejsze informacje w trakcie działania aplikacji
+1. Aplikacja powinna logować najważniejsze informacje w trakcie działania aplikacji.
